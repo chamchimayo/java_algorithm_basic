@@ -5,10 +5,10 @@ public class Student {
 	private String name;
 	private String no;
 	
-	public Student() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
+//	public Student() {
+//		super();
+//		// TODO Auto-generated constructor stub
+//	}
 	
 	public Student(String name) {
 		super();
